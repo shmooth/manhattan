@@ -41,7 +41,7 @@ Install with pip::
 Documentation
 =============
 
-Manhattan has `extensive documentation here <http://www.cartlogic.com/manhattan>`_.
+Manhattan has `extensive documentation here <http://manhattan.readthedocs.org/en/latest/>`_.
 
 
 License
